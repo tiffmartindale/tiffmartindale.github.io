@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Embeds not on right Domain</title>
+</head>
+<body>
+Production:
+<script type='text/javascript' id='vidyard_embed_code_u3sjbJLfzMQnLoHiltAz0Q' src='//play.vidyard.com/u3sjbJLfzMQnLoHiltAz0Q.js?v=3.1.1&type=inline'></script>
+
+Staging:
+<script type='text/javascript' id='vidyard_embed_code_rqJITyFiEGRcGdUMjb-0WQ' src='//play-staging-qa.vidyard.com/rqJITyFiEGRcGdUMjb-0WQ.js?v=3.1.1&type=inline'></script>
+
+</body>
+</html>
