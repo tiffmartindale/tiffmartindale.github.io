@@ -1,5 +1,5 @@
 ﻿# tiffmartindale.github.io
 ﻿
-﻿ tiffmartindale.github.io/embedded.html
-﻿ tiffmartindale.github.io/lightbox.html
+﻿ tiffmartindale.github.io/Embedded.html
+﻿ tiffmartindale.github.io/LightBox.html
 
